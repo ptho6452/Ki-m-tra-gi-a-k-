@@ -1,0 +1,52 @@
+.card-group{
+
+    gap: 20px;
+    
+}
+.card{
+    width: 250px;
+    height: 460px;
+}
+#thoitrang_img img {
+    margin-left:10%;
+    width: 300px;
+    height: 280px;
+}
+
+
+#price{
+    color: red;
+}
+#bt{
+    display:block;margin-left:93%;
+  
+    border-radius: 60%;
+    width: 8%;
+    height: 8%;
+}
+#name{
+    color: blueviolet;
+}
+button{
+    border-radius: 4px;
+    padding:7px 18px;
+    margin-top:10px;
+    margin-left:30%;
+background-color: orange;}
+.title {
+    margin-top:20px;
+    margin-bottom:20px;
+ 
+    color: orange;
+    font-size: 24px;
+
+ 
+}
+#one{
+     
+        position: absolute;
+        margin-top:0%;
+        margin-left:1000%;
+
+    
+} 
